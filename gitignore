@@ -1,0 +1,7 @@
+# Power BI temp / backup files
+*.pbix.bak
+~$*
+
+# OS noise
+.DS_Store
+Thumbs.db
